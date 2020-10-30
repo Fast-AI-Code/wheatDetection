@@ -1,0 +1,12 @@
+*.pth
+*.csv
+*.jpg
+*.jpeg
+*.png
+*.mp3
+*.wav
+*.bin
+*.pyc
+!initialImage.png
+!outputsample.png
+__pycache__/*

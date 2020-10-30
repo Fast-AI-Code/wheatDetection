@@ -1,0 +1,69 @@
+Done fitting
+Done fitting
+
+2020-10-30T08:39:24.431721
+LR: 0.0002
+Done fitting
+
+2020-10-30T08:42:28.558748
+LR: 0.0002
+Done fitting
+
+2020-10-30T08:46:38.977967
+LR: 0.0002
+Done fitting
+
+2020-10-30T08:48:05.531051
+LR: 0.0002
+Done fitting
+
+2020-10-30T08:50:43.575652
+LR: 0.0002
+Done fitting
+
+2020-10-30T08:51:18.643210
+LR: 0.0002
+Done fitting
+
+2020-10-30T08:51:31.319984
+LR: 0.0002
+Done fitting
+
+2020-10-30T08:53:40.956823
+LR: 0.0002
+Done fitting
+
+2020-10-30T08:54:22.482301
+LR: 0.0002
+[RESULT]: Train. Epoch: 0, summary_loss: 1.23250, time: 530.18405
+Done fitting
+
+2020-10-30T09:04:54.618505
+LR: 0.0002
+Done fitting
+
+2020-10-30T09:05:14.080281
+LR: 0.0002
+[RESULT]: Train. Epoch: 0, summary_loss: 1.23190, time: 547.61129
+Done fitting
+
+2020-10-30T09:17:04.432828
+LR: 0.0002
+[RESULT]: Train. Epoch: 0, summary_loss: 1.23190, time: 548.66885
+[RESULT]: Val. Epoch: 0, summary_loss: 0.44306, time: 117.34226
+Done fitting
+
+2020-10-30T09:34:44.072941
+LR: 0.0002
+[RESULT]: Train. Epoch: 0, summary_loss: 1.23190, time: 528.05542
+[RESULT]: Val. Epoch: 0, summary_loss: 0.44306, time: 114.52179
+
+2020-10-30T09:45:35.490138
+LR: 0.0002
+[RESULT]: Train. Epoch: 1, summary_loss: 0.49989, time: 531.85380
+[RESULT]: Val. Epoch: 1, summary_loss: 0.42685, time: 114.20931
+
+2020-10-30T09:56:26.321330
+LR: 0.0002
+[RESULT]: Train. Epoch: 2, summary_loss: 0.47711, time: 531.03314
+[RESULT]: Val. Epoch: 2, summary_loss: 0.40621, time: 114.58641
